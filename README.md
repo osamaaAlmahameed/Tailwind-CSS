@@ -46,5 +46,4 @@ https://tailwindcss-flax-tau.vercel.app/
 
 ---
 
-## Folder Structure
 
