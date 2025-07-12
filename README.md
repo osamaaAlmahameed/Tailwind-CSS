@@ -4,6 +4,9 @@ This is a simple responsive webpage template built using **Tailwind CSS** and **
 
 ---
 
+## Deploy Link
+https://tailwindcss-flax-tau.vercel.app/
+
 ## Features
 
 - **Responsive Navigation Bar**  
